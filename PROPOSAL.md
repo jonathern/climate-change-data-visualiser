@@ -1,7 +1,7 @@
 # Project Proposal: Climate Change Data Visualizer
 ## Project Proposal
 
-Author: Jonathan Stephen KATEEGA
+Author: Jonathan Stephen KATEEGA\
 Access No: B34976
 
 ### 1. Introduction

@@ -1,6 +1,9 @@
 # Project Proposal: Climate Change Data Visualizer
 ## Project Proposal
 
+Author: Jonathan Stephen KATEEGA
+Access No: B34976
+
 ### 1. Introduction
 Climate change represents one of the most pressing global challenges, with rising temperatures, increasing carbon emmissions emissions, and sea-level changes affecting ecosystems and human livelihoods.  Despite the abundance of open climate data, many individuals, policymakers, and organizations struggle to interpret these complex datasets effectively.  This project entails the development of a Python-based Climate Change Data Visualizer that employs Object-Oriented Programming (OOP) principles to collect, process, and visualize climate-related datasets in an interactive and comprehensible format.
 

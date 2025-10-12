@@ -1,4 +1,4 @@
-# Project Proposal: Climate Change Data Visualizer
+# Climate Change Data Visualizer
 ## Project Proposal
 
 Author: Jonathan Stephen KATEEGA\
